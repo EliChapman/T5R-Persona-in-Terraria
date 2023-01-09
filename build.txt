@@ -1,0 +1,3 @@
+displayName = Persona 5: Dancing in 2D
+author = Satire Incarnate
+version = 0.1
