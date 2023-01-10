@@ -1,1 +1,13 @@
-﻿\n
+﻿Mods: {
+	T5R : {
+		ItemName: {
+			TestItem: "Test Item"
+			RebelKnife: "Rebel Knife"
+		}
+
+		ItemTooltip: {
+			TestItem: "An item for testing\nDoes nothing"
+			RebelKnife: "A weapon manifested from an awakened power."
+		}
+	}
+}

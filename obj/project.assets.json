@@ -31,19 +31,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Guest1\\.nuget\\packages\\": {}
+    "C:\\Users\\eycha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Guest1\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\T5R\\T5R.csproj",
+      "projectUniqueName": "C:\\Users\\eycha\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\T5R\\T5R.csproj",
       "projectName": "T5R",
-      "projectPath": "C:\\Users\\Guest1\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\T5R\\T5R.csproj",
-      "packagesPath": "C:\\Users\\Guest1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Guest1\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\T5R\\obj\\",
+      "projectPath": "C:\\Users\\eycha\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\T5R\\T5R.csproj",
+      "packagesPath": "C:\\Users\\eycha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\eycha\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\T5R\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Guest1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\eycha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

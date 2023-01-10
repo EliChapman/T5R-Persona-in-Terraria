@@ -9,8 +9,6 @@ namespace T5R.Content.Items
     {
         public override void SetStaticDefaults()
         {
-            DisplayName.SetDefault("Test Item");
-            Tooltip.SetDefault("An item for testing\nDoes nothing");
             CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 20;
         }
 
