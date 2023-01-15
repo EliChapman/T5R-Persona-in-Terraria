@@ -2,7 +2,7 @@
 using Terraria.ModLoader;
 using Terraria.ID;
 using Terraria.GameContent.Creative;
-using T5R.Content.Projectiles.Shortswords;
+using T5R.Content.Projectiles.Weapons;
 
 namespace T5R.Content.Items.Weapons
 {
@@ -15,22 +15,20 @@ namespace T5R.Content.Items.Weapons
 
         public override void SetDefaults()
         {
-            Item.width = 52;
-            Item.height = 52;
+            Item.width = 26;
+            Item.height = 26;
 
             Item.useAnimation = 12;
             Item.useTime = 12;
             Item.useStyle = ItemUseStyleID.Rapier;
-            Item.autoReuse = true;
 
             Item.value = Item.buyPrice(silver: 5, copper: 20);
             Item.rare = ItemRarityID.Blue;
-            // Add a use sound
+            Item.UseSound = SoundID.Item1;
 
-            Item.DamageType = DamageClass.MeleeNoSpeed;
+            Item.DamageType = DamageClass.Melee;
             Item.damage = 12;
-            Item.knockBack = 4;
-            Item.crit = 5;
+            Item.knockBack = 4f;
 
             Item.noUseGraphic = true; // The sword is actually a "projectile", so the item should not be visible when used
             Item.noMelee = true; // The projectile will do the damage and not the item
