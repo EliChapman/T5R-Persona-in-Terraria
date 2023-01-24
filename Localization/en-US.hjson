@@ -3,11 +3,13 @@
 		ItemName: {
 			TestItem: "Test Item"
 			RebelKnife: "Rebel Knife"
+			NormalRod: "Normal Rod"
 		}
 
 		ItemTooltip: {
 			TestItem: "An item for testing\nDoes nothing"
 			RebelKnife: "A weapon manifested from an awakened power."
+			NormalRod: "A weapon manifested from an awakened power."
 		}
 	}
 }
