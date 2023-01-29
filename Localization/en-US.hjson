@@ -4,12 +4,14 @@
 			TestItem: "Test Item"
 			RebelKnife: "Rebel Knife"
 			NormalRod: "Normal Rod"
+			VelvetRoomDoor: "Velvet Room Door"
 		}
 
 		ItemTooltip: {
 			TestItem: "An item for testing\nDoes nothing"
 			RebelKnife: "A weapon manifested from an awakened power."
 			NormalRod: "A weapon manifested from an awakened power."
+			VelvetRoomDoor: "A gateway to a room guarded by a man with a long nose."
 		}
 	}
 }

@@ -15,4 +15,9 @@
     <Folder Include="Assets\Textures\" />
     <Folder Include="Assets\Sounds\" />
   </ItemGroup>
+  <ItemGroup>
+    <Reference Include="SubworldLibrary">
+      <HintPath>obj\SubworldLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
 </Project>
